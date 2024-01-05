@@ -23,18 +23,6 @@ main:
         url: /facilities/dye-sublimation/
       - name: "Dye Sublimnation"
         url: /facilities/vinyl/
-  - name: Projects
-    url: /projects/
-    weight: 2
-    child:
-      - name: "Book Design"
-        url: /projects/book-design/
-      - name: "Special Edition"
-        url: /projects/special-edition/
-      - name: "Master System"
-        url: /projects/master-system/
-      - name: "Clothing Range"
-        url: /projects/clothing-range/
   - name: Blog
     url: /blog/
     weight: 4
@@ -42,7 +30,7 @@ main:
     url: https://waiver.thelab.ms
     weight: 5
   - name: Join Now
-    url: https://www.zerostatic.io/theme/jekyll-advance/
+    url: https://join.thelab.ms
     weight: 6
 footer_primary:
   - name: Home

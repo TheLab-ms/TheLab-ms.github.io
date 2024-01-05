@@ -53,13 +53,13 @@ outro:
   enabled: true
   align: left
   image: false
-  heading: "Ready to get started?"
-  sub_heading: "Contact us today for a free quote!"
+  heading: "Ready to get started creating with TheLab.ms?"
+  sub_heading: "Join up today!"
   buttons:
     enabled: true
     list:
-      - text: "Get A Quote"
-        url: "/contact"
+      - text: "Join Now"
+        url: "https://join.thelab.ms"
         external: false
         fa_icon: false
         size: normal
