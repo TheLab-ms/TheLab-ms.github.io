@@ -1,18 +1,15 @@
 ---
-title: "Mike Vance"
+title: "Hannah Garbacz"
 date: 2018-12-20T13:44:30+10:00
-weight: 3
-description: "Art director for branding & design."
-thumbnail: "/assets/images/team/mike-vance-thumbnail.jpg"
-image: "/assets/images/team/mike-vance.jpg"
-jobtitle: "Art Director"
+weight: 2
+description: "Vice President and Director of Client Care at Agent Jill Team"
+thumbnail: "/assets/images/team/hannah-garbacz.jpeg"
+image: "/assets/images/team/hannah-garbacz.jpeg"
+jobtitle: "Vice President"
 links:
-  - url: "https://www.linkedin.com"
+  - url: "https://www.linkedin.com/in/hgarbacz/"
     label: LinkedIn
     icon: "fab fa-linkedin"
-  - url: "https://dribbble.com"
-    label: Dribbble
-    icon: "fab fa-dribbble"
 ---
 
 Mike is a highly experienced Senior Art Director with over 20 years of experience in the advertising and creative industry. With a strong background in graphic design and a deep understanding of the creative process, Mike has been responsible for leading numerous successful campaigns for some of the world's leading brands.
