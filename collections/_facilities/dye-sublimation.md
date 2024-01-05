@@ -5,8 +5,8 @@ date: 2017-11-28T15:14:54+10:00
 weight: 1
 header_transparent: true
 fa_icon: "fa-solid fa-palette"
-thumbnail: "/assets/images/gen/facilities/service-1-thumbnail.webp"
-image: "/assets/images/gen/facilities/service-1.webp"
+thumbnail: "/assets/images/gen/facilities/dye-sub.png"
+image: "/assets/images/gen/facilities/dye-sub.png"
 
 hero:
   enabled: true
@@ -16,7 +16,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: false # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/facilities/service-1-large.webp"
+  background_image: "/assets/images/gen/facilities/dye-sub.png"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px

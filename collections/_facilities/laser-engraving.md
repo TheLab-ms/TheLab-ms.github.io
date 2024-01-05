@@ -5,8 +5,8 @@ date: 2018-11-28T15:15:34+10:00
 weight: 4
 header_transparent: true
 fa_icon: "fa-solid fa-wand-sparkles"
-thumbnail: "/assets/images/gen/facilities/service-4-thumbnail.webp"
-image: "/assets/images/gen/facilities/service-4.webp"
+thumbnail: "/assets/images/gen/facilities/laser.png"
+image: "/assets/images/gen/facilities/laser.png"
 
 hero:
   enabled: true
@@ -16,7 +16,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/facilities/service-4-large.webp"
+  background_image: "/assets/images/gen/facilities/laser.png"
   fullscreen_mobile: true
   fullscreen_desktop: false
   height: 660px;

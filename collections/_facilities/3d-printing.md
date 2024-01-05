@@ -5,8 +5,8 @@ date: 2021-07-23
 weight: 5
 header_transparent: true
 fa_icon: "fa-solid fa-cubes"
-thumbnail: "/assets/images/gen/facilities/service-5-thumbnail.webp"
-image: "/assets/images/gen/facilities/service-5.webp"
+thumbnail: "/assets/images/gen/facilities/3d-printing.jpg"
+image: "/assets/images/gen/facilities/3d-printing.jpg"
 
 hero:
   enabled: true
@@ -16,7 +16,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/facilities/service-5.webp"
+  background_image: "/assets/images/gen/facilities/3d-printing.jpg"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px

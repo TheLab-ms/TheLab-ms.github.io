@@ -5,8 +5,8 @@ date: 2019-10-03
 weight: 3
 header_transparent: true
 fa_icon: "fa-solid fa-tree"
-thumbnail: "/assets/images/gen/facilities/service-3-thumbnail.webp"
-image: "/assets/images/gen/facilities/service-3.webp"
+thumbnail: "/assets/images/gen/facilities/woodworking.jpg"
+image: "/assets/images/gen/facilities/woodworking.jpg"
 
 hero:
   enabled: true
@@ -16,7 +16,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: false" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/facilities/service-3.webp"
+  background_image: "/assets/images/gen/facilities/woodworking.jpg"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
