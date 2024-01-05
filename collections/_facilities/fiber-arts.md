@@ -4,8 +4,7 @@ description: "Building complex web applications and system software."
 date: 2019-10-03
 weight: 6
 header_transparent: true
-fa_icon: "fab fa-codepen"
-icon: "assets/images/icons/icons8-merge-git-100.png"
+fa_icon: "fa-solid fa-mitten"
 thumbnail: "/assets/images/gen/facilities/service-6-thumbnail.webp"
 image: "/assets/images/gen/facilities/service-6.webp"
 

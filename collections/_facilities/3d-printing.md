@@ -4,8 +4,7 @@ description: "Improving search engine rankings through techincal on page SEO and
 date: 2021-07-23
 weight: 5
 header_transparent: true
-fa_icon: "far fa-chart-bar"
-icon: "assets/images/icons/icons8-bar-chart-100.png"
+fa_icon: "fa-solid fa-cubes"
 thumbnail: "/assets/images/gen/facilities/service-5-thumbnail.webp"
 image: "/assets/images/gen/facilities/service-5.webp"
 

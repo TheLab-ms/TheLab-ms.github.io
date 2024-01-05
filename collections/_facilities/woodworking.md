@@ -4,8 +4,7 @@ description: "The expression of a brand including its name, trademark, and visua
 date: 2019-10-03
 weight: 3
 header_transparent: true
-fa_icon: false
-icon: "assets/images/icons/icons8-color-palette-100.png"
+fa_icon: "fa-solid fa-tree"
 thumbnail: "/assets/images/gen/facilities/service-3-thumbnail.webp"
 image: "/assets/images/gen/facilities/service-3.webp"
 

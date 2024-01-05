@@ -4,8 +4,7 @@ description: "Design beautiful modern websites using the Jamstack."
 date: 2018-11-28T15:15:34+10:00
 weight: 4
 header_transparent: true
-fa_icon: false
-icon: "assets/images/icons/icons8-design-100.png"
+fa_icon: "fa-solid fa-wand-sparkles"
 thumbnail: "/assets/images/gen/facilities/service-4-thumbnail.webp"
 image: "/assets/images/gen/facilities/service-4.webp"
 
