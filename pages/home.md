@@ -8,7 +8,7 @@ meta_title: TheLab.ms - Everyone's Makerspace
 hero:
   enabled: true
   heading: "TheLab.ms - Everyone's Makerspace"
-  sub_heading: "Built using highly configurable sections, Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+  sub_heading: "We are a non-profit, community-driven space where people can collaborate on technologically-oriented projects using specialized equipment with other humans."
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
