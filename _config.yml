@@ -2,7 +2,7 @@
 # Jekyll Config
 # --------------------
 baseurl: ""
-url: "https://jekyll-advance.netlify.app"
+url: "https://thelab-ms.github.io/"
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
@@ -84,7 +84,7 @@ exclude:
 # -------------------
 # Theme Config
 # --------------------
-title: "Jekyll Advance"
+title: "TheLab.ms - Everyone's Makerspace"
 category_dir: category
 
 colors:
@@ -130,9 +130,9 @@ logo:
   logo_image_invert: assets/images/logo/logo-invert.png
   logo_image_invert_mobile: assets/images/logo/logo-invert-mobile.png
   logo_image_desktop_height: "30px"
-  logo_image_desktop_width: "132px"
+  logo_image_desktop_width: "30px"
   logo_image_mobile_height: "30px"
-  logo_image_mobile_width: "34px"
+  logo_image_mobile_width: "30px"
   show_logo_image_on_mobile: true
   show_logo_image_on_desktop: true
   show_logo_text_on_mobile: false
@@ -144,8 +144,8 @@ header:
 open_graph:
   meta_opengraph_type: "website"
   meta_twitter_card: "summary"
-  meta_twitter_site: "@zerostaticio"
-  meta_twitter_creator: "@zerostaticio"
+  meta_twitter_site: "@TheLab_ms"
+  meta_twitter_creator: "@TheLab_ms"
 
 darkmode:
   enable_dark_mode: true
@@ -187,15 +187,15 @@ menu:
 
 footer:
   enable_footer: true # show/hide the entire footer
-  footer_title: "TheLab.ms"
-  footer_description: "Makerspace located in Richardson Texas and part of the Richardson IQ."
+  footer_title: "TheLab.ms - Everyone's Makerspace"
+  footer_description: "We are a non-profit, community-driven space where people can collaborate on technologically-oriented projects using specialized equipment with other humans."
   enable_social_media_icons: true
   enable_contact_details: true
   enable_menu_footer_primary: true
   enable_menu_footer_secondary: true
   enable_menu_footer_tertiary: true
-  footer_primary_menu_title: "Product"
-  footer_secondary_menu_title: "Company"
+  footer_primary_menu_title: "The Makerspace"
+  footer_secondary_menu_title: "About Us"
   footer_tertiary_menu_title: "Other"
 
 bottom:

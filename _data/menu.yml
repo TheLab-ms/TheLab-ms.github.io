@@ -4,7 +4,7 @@ main:
     weight: 1
   - name: About
     url: /about/
-    weight: 5
+    weight: 1
   - name: Facilities
     url: /facilities/
     weight: 1
@@ -38,6 +38,9 @@ main:
   - name: Blog
     url: /blog/
     weight: 4
+  - name: Sign the Waiver
+    url: https://waiver.thelab.ms
+    weight: 5
   - name: Join Now
     url: https://www.zerostatic.io/theme/jekyll-advance/
     weight: 6
@@ -51,9 +54,6 @@ footer_primary:
   - name: Projects
     url: /projects/
     weight: 3
-  - name: Team
-    url: /team/
-    weight: 4
 footer_secondary:
   - name: Blog
     url: /blog/
@@ -64,16 +64,20 @@ footer_secondary:
   - name: Contact
     url: /contact/
     weight: 3
+  - name: Team
+    url: /team/
+    weight: 4
 footer_tertiary:
+  - name: Join Now
+    url: https://join.thelab.ms
+    weight: 1
   - name: Privacy Policy
     url: /privacy-policy/
-    weight: 1
+    weight: 2
   - name: Terms and Conditions
     url: /terms-and-conditions/
-    weight: 2
-  - name: Join Now
-    url: https://www.zerostatic.io/theme/jekyll-advance/
     weight: 3
+
 bottom:
   - name: Privacy Policy
     url: /privacy-policy/
