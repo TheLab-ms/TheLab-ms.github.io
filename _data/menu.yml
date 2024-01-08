@@ -21,6 +21,10 @@ main:
         url: /facilities/laser-engraving/
       - name: "Dye Sublimnation"
         url: /facilities/dye-sublimation/
+      - name: "CNC"
+        url: /facilities/cnc/
+      - name: "Craft Cutting"
+        url: /facilities/craft-cutting/
   - name: Blog
     url: /blog/
     weight: 4
