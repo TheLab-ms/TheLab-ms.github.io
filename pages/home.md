@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: "/"
-description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+description: "We are a non-profit, community-driven space where people can collaborate on technologically-oriented projects using specialized equipment with other humans."
 header_transparent: true
 meta_title: TheLab.ms - Everyone's Makerspace
 
