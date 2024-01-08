@@ -1,6 +1,6 @@
 ---
-title: "3D Printing"
-description: "Creating physical objects by building up thin layers of material."
+title: "Craft Cutting"
+description: "Cutting shapes from vinyl, paper, and other thin materials."
 date: 2021-07-23
 weight: 1
 header_transparent: true
@@ -10,8 +10,8 @@ image: "/assets/images/gen/facilities/3d-printing.jpg"
 
 hero:
   enabled: true
-  heading: "3D Printing"
-  sub_heading: "Creating physical objects by building up thin layers of material."
+  heading: "Craft Cutting"
+  sub_heading: "Cutting shapes from vinyl, paper, and other thin materials."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
@@ -31,8 +31,3 @@ hero:
         outline: false
         style: "primary"
 ---
-
-# Filament
-
-# Resin
-

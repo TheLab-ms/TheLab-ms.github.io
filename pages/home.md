@@ -32,7 +32,7 @@ facilities:
   enabled: true
   heading: "Our Facilities"
   sub_heading: ""
-  limit: 6
+  limit: 9
   sort: "weight" # 'date'
   view_more_button_text: "View All Facilities"
   view_more_button_link: "/facilities"
