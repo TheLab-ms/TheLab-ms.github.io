@@ -39,7 +39,13 @@ hero:
 - Dazzling Quality: High-resolution imagery up to 1200 x 1200 dpi.
 - Standard Media Size: 11" x 17" - Maximum Media Size: (13" x 19" / A3+ with optional Bypass Tray)
 
+![Sawgrass Virtuoso SG1000](/assets/images/gen/facilities/dyesub/sawgrass.JPEG)
+
 ## Flat Heat Press 
+
+![Flat Heat Press](/assets/images/gen/facilities/dyesub/thermal-press.JPEG)
+![Flat Heat Press Details](/assets/images/gen/facilities/dyesub/thermal-press-details.JPEG)
 
 ## Tumber/Mug Heat Press
 
+![Tumber Heat Press](/assets/images/gen/facilities/dyesub/tumbler-press.JPEG)
