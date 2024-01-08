@@ -31,6 +31,9 @@ hero:
         outline: false
         style: "primary"
 ---
+# Donate
+
+# Examples
 
 # Equipment
 
