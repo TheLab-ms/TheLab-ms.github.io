@@ -1,8 +1,8 @@
 ---
 title: "3D Printing"
-description: "Improving search engine rankings through techincal on page SEO and content creation."
+description: "Creating physical objects by building up thin layers of material."
 date: 2021-07-23
-weight: 5
+weight: 1
 header_transparent: true
 fa_icon: "fa-solid fa-cubes"
 thumbnail: "/assets/images/gen/facilities/3d-printing.jpg"
@@ -11,7 +11,7 @@ image: "/assets/images/gen/facilities/3d-printing.jpg"
 hero:
   enabled: true
   heading: "3D Printing"
-  sub_heading: "Improving search engine rankings through techincal on page SEO and content creation."
+  sub_heading: "Creating physical objects by building up thin layers of material."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true

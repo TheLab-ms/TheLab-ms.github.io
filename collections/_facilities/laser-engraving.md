@@ -1,8 +1,8 @@
 ---
 title: "Laser Engraving"
-description: "Design beautiful modern websites using the Jamstack."
+description: "Cutting or engraving various substances using high powered lasers."
 date: 2018-11-28T15:15:34+10:00
-weight: 4
+weight: 2
 header_transparent: true
 fa_icon: "fa-solid fa-wand-sparkles"
 thumbnail: "/assets/images/gen/facilities/laser.png"
@@ -11,7 +11,7 @@ image: "/assets/images/gen/facilities/laser.png"
 hero:
   enabled: true
   heading: "Laser Engraving"
-  sub_heading: "Design beautiful modern websites using the Jamstack."
+  sub_heading: "Cutting or engraving various substances using high powered lasers."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true

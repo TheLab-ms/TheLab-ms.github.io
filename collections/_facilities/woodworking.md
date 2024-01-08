@@ -1,8 +1,8 @@
 ---
 title: "Woodworking"
-description: "The expression of a brand including its name, trademark, and visual appearance."
+description: "Fabricating objects from wood, everything from pens to furniture."
 date: 2019-10-03
-weight: 3
+weight: 5
 header_transparent: true
 fa_icon: "fa-solid fa-tree"
 thumbnail: "/assets/images/gen/facilities/woodworking.jpg"
@@ -11,7 +11,7 @@ image: "/assets/images/gen/facilities/woodworking.jpg"
 hero:
   enabled: true
   heading: "Woodworking"
-  sub_heading: "The expression of a brand including its name, trademark, and visual appearance."
+  sub_heading: "Fabricating objects from wood, everything from pens to furniture."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true

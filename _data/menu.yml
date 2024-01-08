@@ -21,13 +21,11 @@ main:
         url: /facilities/laser-engraving/
       - name: "Dye Sublimnation"
         url: /facilities/dye-sublimation/
-      - name: "Dye Sublimnation"
-        url: /facilities/vinyl/
   - name: Blog
     url: /blog/
     weight: 4
-  - name: Sign the Waiver
-    url: https://waiver.thelab.ms
+  - name: Visit The Lab
+    url: /visit
     weight: 5
   - name: Join Now
     url: https://join.thelab.ms

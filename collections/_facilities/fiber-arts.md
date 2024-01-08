@@ -1,8 +1,8 @@
 ---
 title: "Fiber Arts"
-description: "Building complex web applications and system software."
+description: "Creating artistic creations from yarn, fabric and other fibers."
 date: 2019-10-03
-weight: 6
+weight: 3
 header_transparent: true
 fa_icon: "fa-solid fa-mitten"
 thumbnail: "/assets/images/gen/facilities/fiber-hat.jpeg"
@@ -11,7 +11,7 @@ image: "/assets/images/gen/facilities/fiber-hat.jpeg"
 hero:
   enabled: true
   heading: "Fiber Arts"
-  sub_heading: "Building complex web applications and system software."
+  sub_heading: "Creating artistic creations from yarn, fabric and other fibers."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
