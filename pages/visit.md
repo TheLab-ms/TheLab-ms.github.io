@@ -28,6 +28,36 @@ All visitors, whether taking a class or maintain a regular membership, must comp
 
 We are open every Tuesday evening starting at 7pm for visitors to come to the lab, tour the facilities, and meet the leadership team.  If that timing does not work with your schedule then [join our Discord Server](https://discord.thelab.ms/) and ask in the General channel about setting up another time.
 
+### Until then...
+<div class="info-buttons mt-2">
+  <ul>
+    <li>
+    {% include framework/button.html 
+      text="Join our Discord Server"
+      url="https://discord.thelab.ms/"
+      external=true
+      size="large"
+      outline=false
+      rounded=true
+      style="dark"
+      fa_icon=false
+    %}
+    </li>
+    <li>
+    {% include framework/button.html 
+      text="Learn about our facilities"
+      url="/facilities"
+      external=false
+      size="large"
+      outline=false
+      rounded=true
+      style="dark"
+      fa_icon=false
+    %}
+    </li>
+  </ul>
+</div>
+
 ## Leadership Team
 
 We are led by a group of volunteer officers who have a variety of passions and interests.  You can learn more about them here:
