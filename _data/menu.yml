@@ -37,8 +37,8 @@ footer_primary:
   - name: Facilities
     url: /facilities/
     weight: 2
-  - name: Projects
-    url: /projects/
+  - name: Leadership Team
+    url: /team/
     weight: 3
 footer_secondary:
   - name: Blog
@@ -50,9 +50,6 @@ footer_secondary:
   - name: Contact
     url: /contact/
     weight: 3
-  - name: Team
-    url: /team/
-    weight: 4
 footer_tertiary:
   - name: Join Now
     url: https://join.thelab.ms
