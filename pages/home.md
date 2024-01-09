@@ -12,7 +12,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
-  background_image: "/assets/images/gen/content/hero.jpg"
+  background_image: "/assets/images/makerspace_front.jpg"
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   fullscreen_mobile: true
   fullscreen_desktop: false
