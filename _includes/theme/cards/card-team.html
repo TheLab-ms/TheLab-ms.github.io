@@ -4,7 +4,7 @@
 {% assign jobtitle = include.jobtitle %}
 {% assign links = include.links %}
 {% assign url = include.url %}
-
+{% assign discord = include.discord %}
 <div class="card card-team {% if include.thumbnail %}card-has-thumbnail{% endif %} {% if include.icon %}card-has-icon{% endif %}">
   {% if thumbnail %}
     <div class="card-thumbnail">
@@ -32,6 +32,11 @@
     {% if description %}
       <div class="card-description">
         <p>{{ description }}</p>
+      </div>
+    {% endif %}
+    {% if discord %}
+      <div class="card-description">
+        <p>Discord: {{ discord }}</p>
       </div>
     {% endif %}
     {% if links %}

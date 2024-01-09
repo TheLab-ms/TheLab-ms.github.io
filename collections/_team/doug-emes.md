@@ -6,6 +6,7 @@ description: "Current President and Technical Trainer with VSoft Consulting Grou
 thumbnail: "/assets/images/team/doug-emes.jpeg"
 image: "/assets/images/team/doug-emes.jpeg"
 jobtitle: "President"
+discord: "doug.emes"
 links:
   - url: "https://www.linkedin.com/in/doug-emes/"
     label: LinkedIn

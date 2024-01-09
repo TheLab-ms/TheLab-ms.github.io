@@ -1,6 +1,6 @@
 ---
 layout: list
-title: "Team"
+title: "Leadership Team"
 description: "Meet our dedicated team."
 permalink: "/team/"
 date: 2018-02-12T15:37:57+07:00
