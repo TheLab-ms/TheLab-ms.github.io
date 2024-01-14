@@ -2,7 +2,7 @@
 title: "Woodworking"
 description: "Fabricating objects from wood, everything from pens to furniture."
 date: 2019-10-03
-weight: 5
+weight: 7
 header_transparent: true
 fa_icon: "fa-solid fa-tree"
 thumbnail: "/assets/images/gen/facilities/woodworking.jpg"
@@ -33,6 +33,11 @@ hero:
 ---
 
 # Donate
+
+If you would like to donate to the expenses of running this area please click here:
+
+<a class="button button-dark" href="https://www.paypal.com/donate/?hosted_button_id=8ZVUR5UGQDDZ2">Donate Now via PayPal</a>
+
 
 # Examples
 

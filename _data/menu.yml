@@ -9,22 +9,22 @@ main:
     url: /facilities/
     weight: 1
     child:
-      - name: "Woodworking"
-        url: /facilities/woodworking/
       - name: "3D Printing"
         url: /facilities/3d-printing/
-      - name: "Fiber Arts"
-        url: /facilities/fiber-arts/
-      - name: "Electronics"
-        url: /facilities/electronics/
       - name: "Laser Engraving"
         url: /facilities/laser-engraving/
-      - name: "Dye Sublimnation"
-        url: /facilities/dye-sublimation/
       - name: "CNC"
         url: /facilities/cnc/
       - name: "Craft Cutting"
         url: /facilities/craft-cutting/
+      - name: "Fiber Arts"
+        url: /facilities/fiber-arts/
+      - name: "Dye Sublimnation"
+        url: /facilities/dye-sublimation/
+      - name: "Woodworking"
+        url: /facilities/woodworking/
+      - name: "Electronics"
+        url: /facilities/electronics/
   - name: Blog
     url: /blog/
     weight: 4

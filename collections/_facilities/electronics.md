@@ -2,7 +2,7 @@
 title: "Electronics"
 description: "Working with circuit boards, resistors, capacitors, relays and more."
 date: 2018-11-28T15:15:34+10:00
-weight: 6
+weight: 8
 header_transparent: true
 fa_icon: "fa-solid fa-plug"
 thumbnail: "/assets/images/gen/facilities/electronics.jpg"
@@ -33,6 +33,11 @@ hero:
 ---
 
 # Donate
+
+If you would like to donate to the expenses of running this area please click here:
+
+<a class="button button-dark" href="https://www.paypal.com/donate/?hosted_button_id=8ZVUR5UGQDDZ2">Donate Now via PayPal</a>
+
 
 # Examples
 

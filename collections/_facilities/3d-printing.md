@@ -34,6 +34,11 @@ hero:
 
 # Donate
 
+If you would like to donate to the expenses of running this area please click here:
+
+<a class="button button-dark" href="https://www.paypal.com/donate/?hosted_button_id=XHQRUTFXRSWQY">Donate Now via PayPal</a>
+
+
 # Examples
 
 # Equipment

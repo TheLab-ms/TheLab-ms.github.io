@@ -2,7 +2,7 @@
 title: "Dye Sublimation"
 description: "Transfer images from printed paper to T-Shirts, cards, tote bags and other surfaces via heat transfer."
 date: 2017-11-28T15:14:54+10:00
-weight: 4
+weight: 6
 header_transparent: true
 fa_icon: "fa-solid fa-palette"
 thumbnail: "/assets/images/gen/facilities/dye-sub.png"
@@ -32,6 +32,11 @@ hero:
         style: "primary"
 ---
 # Donate
+
+If you would like to donate to the expenses of running this area please click here:
+
+<a class="button button-dark" href="https://www.paypal.com/donate/?hosted_button_id=8ZVUR5UGQDDZ2">Donate Now via PayPal</a>
+
 
 # Examples
 

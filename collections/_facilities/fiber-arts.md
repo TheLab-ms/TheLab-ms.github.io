@@ -2,7 +2,7 @@
 title: "Fiber Arts"
 description: "Creating artistic creations from yarn, fabric and other fibers."
 date: 2019-10-03
-weight: 3
+weight: 5
 header_transparent: true
 fa_icon: "fa-solid fa-mitten"
 thumbnail: "/assets/images/gen/facilities/fiber-hat.jpeg"
@@ -33,6 +33,11 @@ hero:
 ---
 
 # Donate
+
+If you would like to donate to the expenses of running this area please click here:
+
+<a class="button button-dark" href="https://www.paypal.com/donate/?hosted_button_id=9QLY5URKDG6G6">Donate Now via PayPal</a>
+
 
 # Examples
 

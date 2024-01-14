@@ -34,10 +34,17 @@ hero:
 
 # Donate
 
+If you would like to donate to the expenses of running this area please click here:
+
+<a class="button button-dark" href="https://www.paypal.com/donate/?hosted_button_id=HD8PMYK7JWF8N">Donate Now via PayPal</a>
+
+
 # Examples
 
 # Equipment
 
 ## Laser Diode Engraving
+
+![XTool](/assets/images/gen/facilities/xtool.jpeg)
 
 ## Laser CO2 Engraving & Cutting
