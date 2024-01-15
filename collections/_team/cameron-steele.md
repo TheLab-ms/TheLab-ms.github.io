@@ -5,7 +5,7 @@ weight: 4
 description: "Floating Board Member and Software Developer at LibLab"
 thumbnail: "/assets/images/team/cameron-steele.jpg"
 image: "/assets/images/team/cameron-steele.jpg"
-jobtitle: "President"
+jobtitle: "Floating Board Member and Software Developer at LibLab"
 discord: "atechadventurer"
 links:
   - url: "https://www.linkedin.com/in/atechadventurer/"
