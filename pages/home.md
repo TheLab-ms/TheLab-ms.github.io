@@ -83,23 +83,19 @@ projects:
   prevent_click: false
 
 outro:
-  enabled: false
-  align: center
+  enabled: true
+  align: right
   image: false
-  heading: Get Started Today
-  sub_heading: "Save time and money using this premium Jekyll theme."
-  features:
-    enabled: false
-    list:
-      - text: "Free Quote"
-        fa_icon: "fas fa-envelope-open-text"
+  heading: Next Few Events
   buttons:
-    enabled: true
     list:
-      - text: "Contact Us"
-        url: "/contact"
+      - text: "View The Full Calendar"
+        url: "/calendar"
         external: false
-        size: "large"
+        fa_icon: false
+        size: large # "small", "normal", "large"
+        outline: false
+        style: "light" # "light", "dark", "primary"
 
 posts:
   enabled: false

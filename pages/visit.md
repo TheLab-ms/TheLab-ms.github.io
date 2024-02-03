@@ -19,7 +19,7 @@ All visitors, whether taking a class or maintain a regular membership, must comp
 
 ## Visting Us
 
-We are open every Tuesday evening starting at 7pm for visitors to come to the lab, tour the facilities, and meet the leadership team.  If that timing does not work with your schedule then [join our Discord Server](https://discord.thelab.ms/) and ask in the General channel about setting up another time.
+We are open every Tuesday evening starting at 7pm for visitors to come to the lab, tour the facilities, and meet the leadership team.  If that timing does not work with your schedule then [join our Discord Server](https://discord.thelab.ms/) and ask in the General channel about setting up another time.  You can see all of our upcoming events [on our Calendar](/calendar).
 
 ### Until then...
 <div class="list-group">

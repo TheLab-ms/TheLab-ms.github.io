@@ -31,9 +31,12 @@ main:
   - name: Visit The Lab
     url: /visit
     weight: 5
+  - name: Calendar
+    url: /calendar
+    weight: 6
   - name: Join Now
     url: https://join.thelab.ms
-    weight: 6
+    weight: 7
 footer_primary:
   - name: Home
     url: /
@@ -51,9 +54,12 @@ footer_secondary:
   - name: About
     url: /about/
     weight: 2
+  - name: Calendar
+    url: /calendar
+    weight: 3
   - name: Contact
     url: /contact/
-    weight: 3
+    weight: 4
 footer_tertiary:
   - name: Join Now
     url: https://join.thelab.ms

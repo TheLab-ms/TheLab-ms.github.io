@@ -24,6 +24,8 @@
             {% endfor %}
           </ul>
         {% endif %}
+        <div id="calendar" class="list-group"></div>
+        <script type="text/javascript" src="{{ '/assets/js/calendar-short.js' | relative_url }}"></script>   
         {% if buttons.list.size > 0 %}
           <div class="info-buttons mt-2">
             {% for button in buttons.list %}
@@ -43,11 +45,6 @@
       </div>
     </div>
 
-    <div class="col-12 {% if image and align == 'center' %}col-md-10 mt-3{% else %}col-md-6{% endif %} {% if align == 'left' %}order-2 mt-3 mt-md-0{% elsif align == 'right' %}order-1{% elsif align == 'center' %}{% endif %}">
-      {% if image %}
-        <img width="{% if align == 'center' %}1280{% else %}640{% endif %}" height="{% if align == 'center' %}720{% else %}360{% endif %}" alt="{{ heading }}" class="img-fluid" src="{{ image | relative_url }}"/>
-      {% endif %}
-    </div>
-
+  
   </div>
 </div>
