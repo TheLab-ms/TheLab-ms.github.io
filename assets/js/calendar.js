@@ -1,7 +1,7 @@
 fetchCalendarData().then(events => {
   const calendarEl = document.getElementById("calendar");
   const calendar = new FullCalendar.Calendar(calendarEl, {
-      initialView: "listWeek",
+      initialView: "dayGridMonth",
       events,
       headerToolbar: {
         left: 'prev,next today',
