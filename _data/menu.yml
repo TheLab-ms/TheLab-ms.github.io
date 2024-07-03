@@ -5,6 +5,9 @@ main:
   - name: About
     url: /about/
     weight: 1
+  - name: Leadership
+    url: /team/
+    weight: 1
   - name: Facilities
     url: /facilities/
     weight: 1
