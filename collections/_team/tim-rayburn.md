@@ -1,15 +1,11 @@
 ---
-title: "Tim Rayburn"
+title: "Vacant"
 date: 2018-12-20T13:44:30+10:00
 weight: 1
-description: "Vice President of Consulting with Improving"
-thumbnail: "/assets/images/team/tim-rayburn.jpg"
-image: "/assets/images/team/tim-rayburn.jpg"
+description: ""
+thumbnail: "/assets/images/team/vacant.jpg"
+image: "/assets/images/team/vacant.jpg"
 jobtitle: "President"
-discord: "TRayburn"
-links:
-  - url: "https://www.linkedin.com/in/trayburn/"
-    label: LinkedIn
-    icon: "fab fa-linkedin"
+discord: "vacant"
 ---
 
