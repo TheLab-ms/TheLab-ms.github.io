@@ -1,5 +1,5 @@
 ---
-title: "Vacant"
+title: "Solara Simpson"
 date: 2024-12-15T13:44:30+10:00
 weight: 5
 description: "Director of Enterprise Systems & Services at The University of Texas at Dallas"
