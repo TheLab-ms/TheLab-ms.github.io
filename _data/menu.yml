@@ -38,7 +38,7 @@ main:
     url: /calendar
     weight: 6
   - name: Join Now
-    url: https://profile.thelab.ms/signup
+    url: https://join.thelab.ms
     weight: 7
 footer_primary:
   - name: Home
