@@ -83,7 +83,7 @@ projects:
   prevent_click: false
 
 outro:
-  enabled: true
+  enabled: false
   align: right
   image: false
   heading: Next Few Events
