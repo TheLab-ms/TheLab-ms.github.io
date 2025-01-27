@@ -55,7 +55,7 @@ footer_secondary:
     url: /about/
     weight: 2
   - name: Calendar
-    url: /calendar
+    url: https://wiki.thelab.ms/calendar
     weight: 3
   - name: Contact
     url: /contact/
