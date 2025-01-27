@@ -35,7 +35,7 @@ main:
     url: /visit
     weight: 5
   - name: Calendar
-    url: /calendar
+    url: https://wiki.thelab.ms/calendar
     weight: 6
   - name: Join Now
     url: https://join.thelab.ms
@@ -51,9 +51,6 @@ footer_primary:
     url: /team/
     weight: 3
 footer_secondary:
-  - name: Calendar
-    url: https://wiki.thelab.ms/calendar
-    weight: 1
   - name: About
     url: /about/
     weight: 2
