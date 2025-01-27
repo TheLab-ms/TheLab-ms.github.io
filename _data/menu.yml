@@ -51,8 +51,8 @@ footer_primary:
     url: /team/
     weight: 3
 footer_secondary:
-  - name: Blog
-    url: /blog/
+  - name: Calendar
+    url: https://wiki.thelab.ms/calendar
     weight: 1
   - name: About
     url: /about/
