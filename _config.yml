@@ -210,3 +210,7 @@ sidebar:
   enable_sidebar_projects: false
   enable_breadcrumbs_projects: true
 
+announcement_banner:
+  enabled: true
+  text: "We're Moving! New Location: 681 N Plano Rd Suite 119 Richardson TX 75081"
+

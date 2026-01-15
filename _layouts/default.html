@@ -29,10 +29,13 @@
     {% include framework/google-tag-manager.html %}
 
   </head>
-<body class="page {% if page.body_classes %}{{ page.body_classes }}{% elsif layout.body_classes %}{{ layout.body_classes }}{% endif %}{% if site.header.fixed %} has-fixed-header{% else %} has-static-header{% endif %}">
+<body class="page {% if page.body_classes %}{{ page.body_classes }}{% elsif layout.body_classes %}{{ layout.body_classes }}{% endif %}{% if site.header.fixed %} has-fixed-header{% else %} has-static-header{% endif %}{% if site.announcement_banner.enabled %} has-announcement-banner{% endif %}">
 
 {% include framework/menu-main-mobile.html %}
 {% include framework/header.html %}
+{% if site.announcement_banner.enabled %}
+  {% include framework/announcement-banner.html %}
+{% endif %}
 
 <div id="wrapper" class="wrapper">     
   {{ content }}
